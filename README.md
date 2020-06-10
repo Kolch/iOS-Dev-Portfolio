@@ -2,8 +2,9 @@
   
  # Uwords
 <p align="center">
-<img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.png" width="230">&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="210">
+<img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="210">
   <div align="center">
-  <image src="imgs/appStore.svg">
+    
+  <a href="https://apps.apple.com/ru/app/uwords/id1465451850?l=en"><image src="imgs/appStore.svg"></a>
   </div>
 </p>
