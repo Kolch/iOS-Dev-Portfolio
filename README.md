@@ -24,7 +24,7 @@ Idea is to show image that is associated with some word, also you can see transc
  
  **My role:** Solo iOS developer. App was already published, but it was working very bad. So I rebuilded whole app from scratch. 
 
-**Technologies used:** UIKit, Alamofire, CoreData, WEBKit
+**Technologies used:** UIKit, Alamofire, CoreData, WEBKit, Material Components
  
  <br/>
 <p align="center">
