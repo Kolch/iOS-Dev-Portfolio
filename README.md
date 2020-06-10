@@ -1,4 +1,4 @@
-<a href="https://t.me/kolch_a" download><img src="https://img.shields.io/static/v1?label=telegram&message=@kolch_a&color=blue&style=for-the-badge&logo=telegram"></a>&nbsp;&nbsp;&nbsp; <a href="mailto:alex.k.appd@gmail.com" download><img src="https://img.shields.io/static/v1?label=mail&message=alex.k.appd@gmail.com&color=red&style=for-the-badge&logo=gmail"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/kolch_a"><img src="https://img.shields.io/static/v1?label=telegram&message=@kolch_a&color=blue&style=for-the-badge&logo=telegram"></a>&nbsp;&nbsp;&nbsp; <a href="mailto:alex.k.appd@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=alex.k.appd@gmail.com&color=red&style=for-the-badge&logo=gmail"></a>&nbsp;&nbsp;&nbsp;
   
  # Uwords
 Uwords - iOS app that helps people(Russian speaking) learn English words. It’s  first commercial app that I developed. 
@@ -33,3 +33,11 @@ Idea is to show image that is associated with some word, also you can see transc
   <a href="https://apps.apple.com/ru/app/hillpark/id1439173558?l=en"><image src="imgs/appStore.svg"></a>
   </div>
 </p>
+
+
+## Thanks for stopping by!
+
+# Contact info:
+- Email: <a href="mailto:alex.k.appd@gmail.com">alex.k.appd@gmail.com</a>
+- Telegram: <a href="https://t.me/kolch_a">@kolch_a</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/alexey-kolchedanstev-4a19251a6">Alexey Kolchedanstev</a>
