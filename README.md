@@ -7,8 +7,8 @@ Idea is to show image that is associated with some word, also you can see transc
 **My role:** Solo iOS developer, I did both, front and back ends
 
 **Technologies used:**
-    - frontend: UIKit, Alamofire
-    - backend: Firebase, PHP, MySql
+- frontend: UIKit, Alamofire
+- backend: Firebase, PHP, MySql
  
 <p align="center">
 <img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="210">
