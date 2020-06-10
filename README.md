@@ -2,7 +2,7 @@
   
  # Uwords
 <p align="center">
-<img src="imgs/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/card.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/cardsV.gif" width="230" title="Word Guess">
+<img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="230">
   <div align="center">
   <image src="imgs/appStore.svg">
   </div>
