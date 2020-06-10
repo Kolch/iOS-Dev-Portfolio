@@ -10,6 +10,7 @@ Idea is to show image that is associated with some word, also you can see transc
 - frontend: UIKit, Alamofire
 - backend: Firebase, PHP, MySql
  
+ <br/>
 <p align="center">
 <img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="210">
   <div align="center">
@@ -19,6 +20,13 @@ Idea is to show image that is associated with some word, also you can see transc
 
 
  # Hillpark
+ Hillpark - my second commercial app. It’s a ski resort app, main task of it is to allow users to pay their ski passes. Besides ski pass payment, is has wide range of functionality: check prices for different offers of resort, see online cameras of ski tracks and much more.
+ 
+ **My role:** Solo iOS developer. App was already published, but it was working very bad. So I rebuilded whole app from scratch. 
+
+**Technologies used:** UIKit, Alamofire, CoreData, WEBKit
+ 
+ <br/>
 <p align="center">
 <img src="imgs/hillpark/main.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/hillpark/payment.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/hillpark/history.png" width="230">
   <div align="center">
