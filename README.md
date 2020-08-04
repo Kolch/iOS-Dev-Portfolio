@@ -1,17 +1,17 @@
 <a href="https://t.me/kolch_a"><img src="https://img.shields.io/static/v1?label=telegram&message=@kolch_a&color=blue&style=for-the-badge&logo=telegram"></a>&nbsp;&nbsp;&nbsp; <a href="mailto:alex.k.appd@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=alex.k.appd@gmail.com&color=red&style=for-the-badge&logo=gmail"></a>&nbsp;&nbsp;&nbsp;
   
   # MacaroonOfEnglish
+Development of this app is being frozen, so here just some sneak pic of it. Maybe on day it will be in the store (depends on my client :) )
 
-
-**My role:** Solo iOS developer, I did both, front and back ends
+**My role:** Solo iOS developer, frontend, backend
 
 **Technologies used:**
-- frontend: UIKit, Alamofire
+- frontend: UIKit, SwiftUI, Alamofire
 - backend: Firebase, PHP, MySql
  
  <br/>
 <p align="center">
-<img src="imgs/MoE/mainImg.png" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
+<img src="imgs/MoE/mainImg.png" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="215">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
 </p>
 
 
