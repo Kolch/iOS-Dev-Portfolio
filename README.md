@@ -11,10 +11,7 @@
  
  <br/>
 <p align="center">
-<img src="imgs/moe/mainImg.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/moe/main.gif" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/moe/macaroonSaved.png" width="210">
-  <div align="center">
-  <a href="https://apps.apple.com/ru/app/uwords/id1465451850?l=en"><image src="imgs/appStore.svg"></a>
-  </div>
+<img src="imgs/MoE/mainImg.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
 </p>
 
 
