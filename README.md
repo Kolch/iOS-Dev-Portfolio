@@ -11,7 +11,7 @@
  
  <br/>
 <p align="center">
-<img src="imgs/MoE/mainImg.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
+<img src="imgs/MoE/mainImg.png" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
 </p>
 
 
