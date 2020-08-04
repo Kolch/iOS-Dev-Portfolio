@@ -11,7 +11,7 @@
  
  <br/>
 <p align="center">
-<img src="imgs/MoE/mainImg.png" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
+<img src="imgs/MoE/mainImg.png" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
 </p>
 
 
@@ -27,7 +27,7 @@ Idea is to show image that is associated with some word, also you can see transc
  
  <br/>
 <p align="center">
-<img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.gif" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="210">
+<img src="imgs/uwords/categories.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/card.gif" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/uwords/cardsV.gif" width="210">
   <div align="center">
   <a href="https://apps.apple.com/ru/app/uwords/id1465451850?l=en"><image src="imgs/appStore.svg"></a>
   </div>
