@@ -10,7 +10,7 @@ Development of this app is being frozen, so here just some sneak pic of it. Mayb
 - backend: Firebase, PHP, MySql
  
  <br/>
-<p align="center">
+<p align="center" background-color = "white">
 <img src="imgs/MoE/mainImg.png" width="210">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/main.gif" width="215">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/MoE/macaroonSaved.png" width="210">
 </p>
 
