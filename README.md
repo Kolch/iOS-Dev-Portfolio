@@ -1,4 +1,21 @@
 <a href="https://t.me/kolch_dev"><img src="https://img.shields.io/static/v1?label=telegram&message=@kolch_dev&color=blue&style=for-the-badge&logo=telegram"></a>&nbsp;&nbsp;&nbsp; <a href="mailto:alex.k.appd@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=alex.k.appd@gmail.com&color=red&style=for-the-badge&logo=gmail"></a>&nbsp;&nbsp;&nbsp;
+
+ # Rubetek
+ Bla bla bla
+ 
+ **My role:** 
+
+**Technologies used:** 
+ 
+ <br/>
+<p align="center">
+<img src="imgs/Rubetek/1.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/2.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/3.png" width="230">
+<br/>
+<img src="imgs/Rubetek/1.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/2.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/3.png" width="230">
+  <div align="center">
+  <a href="https://apps.apple.com/ru/app/rubetekhome/id1510751860?l=en"><image src="imgs/appStore.svg"></a>
+  </div>
+</p>
   
   # MacaroonOfEnglish
 Development of this app is being frozen, so here just some sneak pic of it. Maybe on day it will be in the store (depends on my client :) )
