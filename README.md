@@ -1,30 +1,26 @@
 <a href="https://t.me/kolch_dev"><img src="https://img.shields.io/static/v1?label=telegram&message=@kolch_dev&color=blue&style=for-the-badge&logo=telegram"></a>&nbsp;&nbsp;&nbsp; <a href="mailto:alex.k.appd@gmail.com"><img src="https://img.shields.io/static/v1?label=mail&message=alex.k.appd@gmail.com&color=red&style=for-the-badge&logo=gmail"></a>&nbsp;&nbsp;&nbsp;
 
  # Rubetek
- Bla bla bla
+Rubetek is an iOS app that makes it easy for users to control their smart home devices, including cameras, intercoms, and more. I began working on this project as a middle iOS developer, but have since been promoted to team lead. As the team lead, I am responsible for overseeing the global architecture of the app, facilitating communication between different teams, and managing various other aspects of the project. Through my efforts, the app has continued to evolve and improve, offering a seamless and intuitive user experience.
  
- **My role:** 
+**Role:** Middle iOS developer -> iOS Team Lead
 
-**Technologies used:** 
+**Stack:** UIKit/RxSwift, SwiftUI/Combine, Realm, MVVM, SwiftSocket, CallKit, VoIP, Firebase
  
  <br/>
 <p align="center">
-<img src="imgs/Rubetek/1.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/2.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/3.png" width="230">
-<br/>
-<img src="imgs/Rubetek/4.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/5.png" width="230">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="imgs/Rubetek/6.png" width="230">
+<img src="imgs/Rubetek/1.png" width="290"><img src="imgs/Rubetek/2.png" width="290"><img src="imgs/Rubetek/3.png" width="290">
+<img src="imgs/Rubetek/4.png" width="290"><img src="imgs/Rubetek/5.png" width="290"><img src="imgs/Rubetek/6.png" width="290">
   <div align="center">
   <a href="https://apps.apple.com/ru/app/rubetekhome/id1510751860?l=en"><image src="imgs/appStore.svg"></a>
   </div>
 </p>
   
   # MacaroonOfEnglish
-Development of this app is being frozen, so here just some sneak pic of it. Maybe on day it will be in the store (depends on my client :) )
+App that helps users learn English words through a quiz format. The app provides an interactive and engaging way for users to expand their vocabulary and test their knowledge. Unfortunately, the app was never published due to unforeseen circumstances. The person who provided the project disappeared, leaving the app incomplete and unpublished.
 
-**My role:** Solo iOS developer, frontend, backend
-
-**Technologies used:**
-- frontend: UIKit, SwiftUI, Alamofire
-- backend: Firebase, PHP, MySql
+**Role:** Full stack developer
+**Stack:** UIKit, SwiftUI, Alamofire, Firebase, PHP, MySQL
  
  <br/>
 <p align="center">
@@ -34,11 +30,11 @@ Development of this app is being frozen, so here just some sneak pic of it. Mayb
 
 
  # Hillpark
- Hillpark - my second commercial app. It’s a ski resort app, main task of it is to allow users to pay their ski passes. Besides ski pass payment, is has wide range of functionality: check prices for different offers of resort, see online cameras of ski tracks and much more.
+This iOS app for a ski resort allows visitors to easily access information about the ski slopes, weather conditions, and other resort amenities. As the developer for this project, I was responsible for rebuilding the app from scratch, adding new features, and ensuring its smooth and reliable performance. The end result was a well-designed and user-friendly app that has enhanced the experience of visitors to the ski resort.
  
- **My role:** Solo iOS developer. App was already published, but it was working very bad. So I rebuilded whole app from scratch. 
+ **Role:** iOS developer
 
-**Technologies used:** UIKit, Alamofire, CoreData, WEBKit, Material Components
+**Stack:** UIKit, Alamofire, CoreData, Material Components
  
  <br/>
 <p align="center">
