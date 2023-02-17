@@ -9,8 +9,8 @@ Rubetek is an iOS app that makes it easy for users to control their smart home d
  
  <br/>
 <p align="center">
-<img src="imgs/Rubetek/1.png" width="290"><img src="imgs/Rubetek/2.png" width="290"><img src="imgs/Rubetek/3.png" width="290">
-<img src="imgs/Rubetek/4.png" width="290"><img src="imgs/Rubetek/5.png" width="290"><img src="imgs/Rubetek/6.png" width="290">
+<img src="imgs/Rubetek/1.png" width="270"><img src="imgs/Rubetek/2.png" width="270"><img src="imgs/Rubetek/3.png" width="270">
+<img src="imgs/Rubetek/4.png" width="270"><img src="imgs/Rubetek/5.png" width="270"><img src="imgs/Rubetek/6.png" width="270">
   <div align="center">
   <a href="https://apps.apple.com/ru/app/rubetekhome/id1510751860?l=en"><image src="imgs/appStore.svg"></a>
   </div>
